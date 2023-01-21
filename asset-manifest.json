@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//bogatyreva-olga.github.io/react-movies/static/css/main.5778ae15.css",
+    "main.js": "/http//bogatyreva-olga.github.io/react-movies/static/js/main.cc1942d0.js",
+    "index.html": "/http//bogatyreva-olga.github.io/react-movies/index.html",
+    "main.5778ae15.css.map": "/http//bogatyreva-olga.github.io/react-movies/static/css/main.5778ae15.css.map",
+    "main.cc1942d0.js.map": "/http//bogatyreva-olga.github.io/react-movies/static/js/main.cc1942d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5778ae15.css",
+    "static/js/main.cc1942d0.js"
+  ]
+}
